@@ -1,4 +1,8 @@
 # 13 Object-Relational Mapping (ORM): E-Commerce Back End
+My job is to create and define the product, category and product tags for it to work in insomnia. I utilize the routes in the api folder. I connected the file from mySQL workbench.Created tables for the data to be pulled into insominia.
+
+# Screenshots
+![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 
 ## Acceptance Criteria
