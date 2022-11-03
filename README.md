@@ -2,8 +2,11 @@
 My job is to create and define the product, category and product tags for it to work in insomnia. I utilize the routes in the api folder. I connected the file from mySQL workbench.Created tables for the data to be pulled into insominia.
 
 # Screenshots
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](/module%2013%20screenshot.png)
+![App Screenshot](/Untitled.png)
 
+# Videolink
+https://drive.google.com/file/d/1KPEmEZE-KZQ-vhgjFj9z0igNCyXo3ioZ/view
 
 ## Acceptance Criteria
 
@@ -20,4 +23,6 @@ THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
-
+# Credit
+A video I was learning from helped me on this assignment
+https://www.youtube.com/watch?v=V9Uxh-zEuZI
